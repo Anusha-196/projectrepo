@@ -1,2 +1,1 @@
-# projectrepo
-this is learnning git
+intial
